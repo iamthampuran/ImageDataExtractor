@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ExifExtractor": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
